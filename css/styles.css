@@ -1,0 +1,7 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+
+body .modal-content {
+    /* new custom width */
+    width: 150%; /* respsonsive width */
+    margin-left:-20%
+}
