@@ -31,10 +31,10 @@ function initialise_document_ready_functions()
             singleItem: true,
             slideSpeed: 300,
             paginationSpeed: 700,
-            autoPlay: 77000,
+            autoPlay: 3700,
             lazyLoad: true,
             stopOnHover: true,
-            pagination: false,
+            pagination: true,
             navigation: false,
             autoHeight : true,
             transitionStyle: "fade"
